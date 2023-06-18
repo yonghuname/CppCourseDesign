@@ -1,0 +1,5 @@
+bname	ID	needpay	discount	cardmoney
+tom		1	50		0.8		991.0
+bill	2	10		1		999.0
+wang	3	55		0.5		823
+zhao	4	45		0.8		545

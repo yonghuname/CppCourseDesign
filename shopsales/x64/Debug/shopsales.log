@@ -1,0 +1,11 @@
+﻿  LINKEDIT.cpp
+  ManageMent.cpp
+C:\Users\35011\Desktop\shopsales\shopsales\shopsales\shopsales\ManageMent.cpp(39,83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Table.cpp
+C:\Users\35011\Desktop\shopsales\shopsales\shopsales\shopsales\Table.cpp(20,58): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\35011\Desktop\shopsales\shopsales\shopsales\shopsales\Table.cpp(163,58): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  Window.cpp
+  shopsales.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\35011\Desktop\shopsales\shopsales\shopsales\x64\Debug\shopsales.exe 或上一个增量链接没有生成它；正在执行完全链接
+  shopsales.vcxproj -> C:\Users\35011\Desktop\shopsales\shopsales\shopsales\x64\Debug\shopsales.exe

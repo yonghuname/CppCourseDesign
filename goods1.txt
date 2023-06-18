@@ -1,0 +1,6 @@
+id	name		catlog		price	contain
+1	earphone		digital	123	21
+2	smartpen		digital	456	123
+3	art_of_war		book	35	155
+4	shampoo		daily	30	123
+5	CD		digital	53	546
